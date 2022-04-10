@@ -1,12 +1,31 @@
 /* You can add global styles to this file, and also import other style files */
 form{
     text-align: center;
-
+    border: 1px solid black;
+    width: fit-content;
+    background-color: aqua;
+    border-radius: 20px;
+    float: right;
+    text-align: center;
 }
+
+ input{
+     height: auto;
+     width: 100px;
+     margin: 10px;
+ }
 
 h1{
     text-align: center;
 }
 button{
     margin: 15px;
+}
+
+.quot{
+    border: 2px solid black;
+    width: 30%;
+    margin: 20px;
+    border-radius: 20px;
+    text-align: center;
 }

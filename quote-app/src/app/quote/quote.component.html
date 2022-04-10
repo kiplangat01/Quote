@@ -2,7 +2,7 @@
 <h1>welcome</h1>
 <app-quote-form (add)="quoteAdded($event)" ></app-quote-form>
 
-<div *ngFor="let quotes of myQuotes; let i = index">
+<div class="quot" *ngFor="let quotes of myQuotes; let i = index">
     <p>{{quotes.name}}</p>
     <p>{{quotes.title}}</p>
     <p>{{quotes.quote}}</p>

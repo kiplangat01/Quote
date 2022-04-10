@@ -10,8 +10,8 @@ export class QuoteComponent implements OnInit {
 
   quote: Quote[] = [
     
-  new Quote (1,'Jared','Living','The greatest glory in living lies not in never falling, but in rising every time we fall.','Nelson Mandela', new Date(2019,7,12),0,0),
-  new Quote (2,'Zimmer man','Hardwork','The way to get started is to quit talking and begin doing.','Walt Disney',new Date(2019,7,14),0,0),
+  new Quote (1,'mandela','hope','May your choices reflect your hopes, not your fears.','Nelson Mandela', new Date(2019,7,12),0,0),
+  new Quote (2,'obama','Hardwork','We did not come to fear the future. We came here to shape it.','kiplangat meshack',new Date(2019,7,14),0,0),
   ]
   get myQuotes(){
  

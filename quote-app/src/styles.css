@@ -22,7 +22,7 @@ h1{
     text-align: center;
 }
 button{
-    margin: 15px;
+    margin: 25px;
 }
 
 .quot{
@@ -33,7 +33,7 @@ button{
     margin: 20px;
     border-radius: 20px;
     text-align: center;
-    box-shadow: 5px 5px 25px 25px #888888;
+    box-shadow: 5px 5px 25px 25px #797070;
     color: white;
 }
 

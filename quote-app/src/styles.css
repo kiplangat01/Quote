@@ -20,6 +20,7 @@ form{
 
 h1{
     text-align: center;
+    text-transform: uppercase;
 }
 button{
     margin: 25px;
@@ -38,6 +39,6 @@ button{
 }
 
 #quote{
-    margin: 10px;
+    margin: 15px;
     height: 150px;
 }

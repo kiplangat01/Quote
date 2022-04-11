@@ -1,10 +1,13 @@
+
+
 /* You can add global styles to this file, and also import other style files */
 form{
     text-align: center;
-    border: 1px solid black;
+    
     width: fit-content;
     background-color: aqua;
     border-radius: 20px;
+    box-shadow: 5px 5px 25px 25px #888888;
     float: right;
     text-align: center;
 }
@@ -23,9 +26,18 @@ button{
 }
 
 .quot{
-    border: 2px solid black;
+    
     width: 30%;
+    background-image: url("./images/bgq.jpeg");
+    background-size: cover;
     margin: 20px;
     border-radius: 20px;
     text-align: center;
+    box-shadow: 5px 5px 25px 25px #888888;
+    color: white;
+}
+
+#quote{
+    margin: 10px;
+    height: 150px;
 }

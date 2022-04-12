@@ -45,7 +45,17 @@ button{
     color: white;
 }
 
+h1{
+    color: brown;
+}
+
+
 #quote{
     margin: 15px;
     height: 150px;
+}
+
+p{
+    text-align: center;
+    margin-top: 30px;
 }
